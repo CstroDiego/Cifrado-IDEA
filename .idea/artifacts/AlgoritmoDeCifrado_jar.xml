@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AlgoritmoDeCifrado:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AlgoritmoDeCifrado_jar</output-path>
+    <root id="archive" name="AlgoritmoDeCifrado.jar">
+      <element id="module-output" name="AlgoritmoDeCifrado" />
+    </root>
+  </artifact>
+</component>
